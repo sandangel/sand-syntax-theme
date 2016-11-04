@@ -1,0 +1,69 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/tmp/d-116104-25117-188oja5/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/tmp/d-116104-25117-188oja5/package.tgz",
+        "spec": "/tmp/d-116104-25117-188oja5/package.tgz",
+        "type": "local"
+      },
+      "/tmp/apm-install-dir-116104-25117-1krbj0n"
+    ]
+  ],
+  "_from": "../d-116104-25117-188oja5/package.tgz",
+  "_id": "rad-syntax@0.4.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/rad-syntax",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/tmp/d-116104-25117-188oja5/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/tmp/d-116104-25117-188oja5/package.tgz",
+    "spec": "/tmp/d-116104-25117-188oja5/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-116104-25117-188oja5/package.tgz",
+  "_shasum": "2e48baf293ff59550cbd410699e39afd60381273",
+  "_shrinkwrap": null,
+  "_spec": "/tmp/d-116104-25117-188oja5/package.tgz",
+  "_where": "/tmp/apm-install-dir-116104-25117-1krbj0n",
+  "bugs": {
+    "url": "https://github.com/cliambrown/rad-syntax/issues"
+  },
+  "dependencies": {},
+  "description": "A light and radically colourful syntax theme, inspired by Google Material Design's colour palette.",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/cliambrown/rad-syntax#readme",
+  "keywords": [
+    "syntax",
+    "theme",
+    "vivid",
+    "rad",
+    "bright",
+    "material"
+  ],
+  "license": "MIT",
+  "name": "rad-syntax",
+  "optionalDependencies": {},
+  "private": true,
+  "readme": "# rad-syntax theme\n\nA light and radically colourful syntax theme for Atom, inspired by Google Material Design's [colour palette](https://www.google.com/design/spec/style/color.html).\n\n![PHP screenshot](http://i.imgur.com/x2BUJlb.png)\n\n![CSS screenshot](http://i.imgur.com/Fx0pvDR.png)\n\n![JS screenshot](http://i.imgur.com/YwW3CeW.png)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cliambrown/rad-syntax.git"
+  },
+  "theme": "syntax",
+  "version": "0.4.0"
+}
